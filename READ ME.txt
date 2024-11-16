@@ -1,0 +1,19 @@
+[Built on M4]
+Instructions:
+ 1. Type the following commands into your Half-Life: Alyx properties: -w 1920 -h 1080 -console -vconsole +vr_msaa 2 +vr_fidelity_level_auto 0 +vr_fidelity_level 3
+(For extra performance you can replace -w 1920 -h 1080 with -nowindow or lower resolution value)
+
+ 2. Find your Half-Life: Alyx cfg directory which is located in:
+\Half-Life Alyx\game\hlvr\cfg
+
+ 3. Select a mod preset and drag the autoexec.cfg file into the cfg directory
+
+Notes: It is recommended you use HEVC encoding if possible as it is more efficient than h.264 and will boost performance
+
+All headsets are different and it is recommended you tweak Half-Life: Alyx resolution scaling from within SteamVR to what suits you best
+
+It is also recommended you use the USB method of connecting ALVR for a more stable connection
+
+If you need support, you can join our discord through the mod site
+
+[As more hardware is tested, more presets will come and more graphics settings will be re-enabled]
